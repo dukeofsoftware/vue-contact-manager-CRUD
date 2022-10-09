@@ -1,24 +1,3 @@
-# vue-contact-manager
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Bu vue.js'de CRUD öğrenmek için oluşturulmuş bir depodur
+öğrendiğim kaynak:
+https://www.youtube.com/watch?v=_5Tw_oI9kKg&t=2566s
